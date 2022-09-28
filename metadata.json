@@ -1,0 +1,32 @@
+{
+  "name": "Fatal Foxes #23",
+  "symbol": "FOX",
+  "description": "A Gang Of Fatal Foxes Wrecking Havoc Across Solana",
+  "seller_fee_basis_points": 200,
+  "image": "https://img-cdn.magiceden.dev/rs:fill:640:640:0:0/plain/https://arweave.net/QHBnzHy6PLas2j-zOwo6JB9K-YheNl9u62pFQSUkaug",
+  "attributes": [
+   {
+      "trait_type": "Type",
+      "value": "Unrevealed"
+    }
+  ],
+  "collection": {
+    "name": "Fatal Foxes",
+    "family": "Fatal Foxes"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://arweave.net/QHBnzHy6PLas2j-zOwo6JB9K-YheNl9u62pFQSUkaug",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "8CA6cwo9PpqUsDB8WU4vB5eFJYRv3cA3kYyrGy2p5iAZ",
+        "share": 100
+      }
+    ]
+  }
+}
